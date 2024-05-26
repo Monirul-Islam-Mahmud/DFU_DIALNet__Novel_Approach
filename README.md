@@ -3,3 +3,8 @@ In recent years, the intersection of healthcare and cutting-edge technology has 
 This webapp is hosted on - https://footulcer-bd.onrender.com
 
 (It will take some time to load as it is free hosting!)
+
+- Added 100 collected images to the dataset.
+- Applied 6 different deep learning models.
+- Implemented LIME and Gradcam to interpret model decisions.
+- A complete Web app to predict Foot Ulcers.
